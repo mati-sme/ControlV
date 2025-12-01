@@ -39,7 +39,7 @@ This is required to run the JavaScript code.
 2.  Press `F1` (or `Cmd+Shift+P` on Mac) and type: `Git: Clone`.
 3.  Paste the repository URL:
     ```text
-    https://github.com/YOUR_USERNAME/control-v.git
+    https://github.com/mati-sme/control-v.git
     ```
 4.  Select a folder on your computer to save it.
 5.  Click **Open** when asked.
